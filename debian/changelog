@@ -1,3 +1,9 @@
+debathena-chromium-config (1.4.1) unstable; urgency=medium
+
+  * Version bump.
+
+ -- Victor Vasiliev <vasilvv@mit.edu>  Sun, 07 May 2017 03:58:44 -0400
+
 debathena-chromium-config (1.4) unstable; urgency=medium
 
   * Use new Chromium policy format.
