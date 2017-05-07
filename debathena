@@ -1,1 +1,0 @@
-CHROMIUM_FLAGS="--auth-server-whitelist=idp.mit.edu $CHROMIUM_FLAGS"

@@ -1,0 +1,2 @@
+debian/mit-idp.json etc/opt/chrome/policies/managed
+debian/mit-idp.json etc/chromium/policies/managed
